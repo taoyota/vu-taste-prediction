@@ -1,6 +1,6 @@
 # VU Taste Prediction
 
-Please switch to corresponding branches for individual's work.
+Please check corresponding branches for each individual's work.
 
 - cr: Bitter/sweet RF
 - ruizhe: Bitter/non-bitter RF
