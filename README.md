@@ -8,4 +8,5 @@ Please check corresponding branches for each individual's work.
 - minh: Regression models
 
 Here is the workflow of this research:
+
 ![Workflow Taste Prediction](WorkFlow.png)
