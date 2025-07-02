@@ -2,7 +2,7 @@
 
 Please check corresponding branches for each individual's work.
 
-- cr: Bitter/sweet RF
-- ruizhe: Bitter/non-bitter RF
-- natalia: RF Peptides
+- rui: Bitter/sweet RF on small molecules
+- ruizhe: Bitter/non-bitter RF on small molecules
+- natalia: RF on Peptides
 - minh: Regression models
