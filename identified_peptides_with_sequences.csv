@@ -1,0 +1,771 @@
+Name,canonical SMILES,Class taste,is_peptide,normalized_taste,is_bitter,is_bitter_vs_sweet,sequence
+"(S)-Aspartyl-(7,7-dimethylnorborn-2R-yl)-(S)-alanine methyl ester",COC(=O)C(CC1CC2CCC1C2)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALGAD
+"(S)-Aspartyl-(7,7-dimethylnorborn-2S-yl)-(S)-alanine methyl ester",COC(=O)C(CC1CC2CCC1C2)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALGAD
+[L-(αMe)Phe]2-aspartame,COC(=O)C(C)(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAAFGAD
+2-Amino-2-{[1-oxo-1-(propan-2-yloxy)propan-2-yl]carbamoyl}acetic acid (isomer I),CC(C)OC(=O)C(C)NC(=O)C(N)C(O)=O,Sweetness,True,Sweetness,False,False,GAGGAAS
+3-({[(4-cyanophenyl)amino]methyl}amino)-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCNc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAFGAD
+3-({[4-(ethoxycarbonyl)phenyl]carbamoyl}amino)-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,CCOC(=O)c1ccc(cc1)NC(=O)NC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAF
+"3-({1-[(1,1-dicyclopropylethyl)amino]propan-2-yl}carbamoyl)-3-[(3,3-dimethylbutyl)amino]propanoic acid",CC(CNC(C)(C1CC1)C1CC1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+3-({1-[(adamantan-1-yl)formamido]ethyl}carbamoyl)-3-aminopropanoic acid,CC(NC(=O)C(N)CC(O)=O)NC(=O)C12CC3CC(CC(C3)C1)C2,Sweetness,True,Sweetness,False,False,GAD
+"3-(3,3-dimethylbutylamino)-4-oxo-4-(1-phenylpropan-2-ylamino)butanoic acid",CC(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+3‐(butylamino)‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,CCCCNC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAF
+"3‐(butylcarbamoyl)‐3‐[(3,3‐dimethylbutyl)amino]propanoic acid",CCCCNC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+3‐(cycloheptylamino)‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC1CCCCCC1,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐(cyclohexylamino)‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC1CCCCC1,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐(cyclooctylamino)‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC1CCCCCCC1,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-(phenylcarbamoyl)-3-(2,2,2-trichloroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(Cl)(Cl)Cl)C(=O)Nc1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+"3-[(1,3-diethoxy-1,3-dioxopropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid",CCOC(=O)C(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)OCC,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-[(1,3-dimethoxy-1,3-dioxopropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid",COC(=O)C(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-[(1-cyclohexyl-2-methoxy-2-oxoethyl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,COC(=O)C(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O)C1CCCCC1,Sweetness,True,Sweetness,False,False,GAVIIGAD
+3-[(1-ethoxy-1-oxopropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,CCOC(=O)C(C)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]‐3‐({[4‐(methoxycarbonyl)phenyl]carbamothioyl}amino)propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=S)Nc1ccc(cc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-({[4-(methoxycarbonyl)phenyl]carbamoyl}amino)propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]‐3‐(pentylamino)propanoic acid,CCCCCNC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAF
+3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]‐3‐[(2‐methylpropyl)amino]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-[(3-methyl-3-phenylbutyl)amino]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]‐3‐[(3‐methylbutyl)amino]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-[(3-phenylpropyl)amino]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1ccccc1,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamothioyl]amino}propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=S)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-{[3-(2,3,4-trihydroxyphenyl)propyl]amino}propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1ccc(c(c1O)O)O,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]-3-{[3-(3,4,5-trihydroxyphenyl)propyl]amino}propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1cc(c(c(c1)O)O)O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(1-methoxy-1-oxohexan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,CCCCC(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-[(1-methoxy-1-oxopentan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,CCCC(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-[(1-methoxy-1-oxopropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,COC(=O)C(C)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+"3-[(2,3-dihydroxypropyl)amino]-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC(O)CO,Sweetness,True,Sweetness,False,False,GAFGAD
+"3‐[(2,3‐dimethylbutyl)amino]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC(C)C(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(2-benzyl-1-methoxy-1-oxopropan-2-yl)carbamoyl]-3-[(3,3-dimethylbutyl)amino]propanoic acid",COC(=O)C(C)(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAAFGAD
+3-[(2-benzyl-1-methoxy-1-oxopropan-2-yl)carbamoyl]-3-[(formylcarbamoyl)amino]propanoic acid,COC(=O)C(C)(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)NC=O,Sweetness,True,Sweetness,False,False,GAAFGAD
+"3-[(2-cyanopyridin-3-yl)carbamoyl]-3-[(1,2,3,4-tetrahydronaphthalen-1-yl)formamido]propanoic acid",OC(=O)CC(NC(=O)C1CCCc2ccccc12)C(=O)Nc1cccnc1C#N,Sweetness,True,Sweetness,False,False,GAD
+3‐[(2‐ethylbutyl)amino]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,CCC(CC)CNC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAF
+3-[(2-hydroxyethyl)amino]-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCO,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({1-[(1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid",CCC(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({1-[(1-phenylpropyl)carbamoyl]propyl}carbamoyl)propanoic acid",CCC(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(=O)NC(CC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({1-[(2-methoxy-1-phenylethyl)carbamoyl]-2-methylpropyl}carbamoyl)propanoic acid",COCC(NC(=O)C(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({1-[(2-methoxy-1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid",CCC(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(=O)NC(COC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({2-[(4-hydroxyphenyl)methyl]-1-methoxy-1-oxopropan-2-yl}carbamoyl)propanoic acid",COC(=O)C(C)(Cc1ccc(cc1)O)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAAFYGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({2-methyl-1-[(1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid",CC(C)C(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+"3-[(3,3-dimethylbutyl)amino]-3-({2-methyl-1-[(1-phenylpropyl)carbamoyl]propyl}carbamoyl)propanoic acid",CCC(NC(=O)C(NC(=O)C(CC(O)=O)NCCC(C)(C)C)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+"3‐[(3,3‐dimethylbutyl)amino]‐3‐(ethylcarbamoyl)propanoic acid",CCNC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+"3‐[(3,3‐dimethylbutyl)amino]‐3‐(propylcarbamoyl)propanoic acid",CCCNC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+"3-[(3,3-dimethylbutyl)amino]-3-[(1-ethoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid",CCOC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(3,3-dimethylbutyl)amino]-3-[(1-hydroxy-3-phenylpropan-2-yl)carbamoyl]propanoic acid",CC(C)(C)CCNC(CC(O)=O)C(=O)NC(CO)Cc1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+"3‐[(3,3‐dimethylbutyl)amino]‐3‐[(2‐methylpropyl)carbamoyl]propanoic acid",CC(C)CNC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+"3-[(3,3-dimethylbutyl)amino]-3-{[1-oxo-3-phenyl-1-(propan-2-yloxy)propan-2-yl]carbamoyl}propanoic acid",CC(C)OC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-[(3,3-dimethylbutyl)amino]-3-{[3-(4-hydroxyphenyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid",COC(=O)C(Cc1ccc(cc1)O)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAFYGAD
+3-[(3-bromophenyl)carbamoyl]-3-{[(4-cyanophenyl)carbamoyl]amino}propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)Br,Sweetness,True,Sweetness,False,False,GAD
+3-[(3-chlorophenyl)carbamoyl]-3-[({[(pyridin-2-yl)carbamoyl]amino}carbonyl)amino]propanoic acid,OC(=O)CC(NC(=O)NC(=O)Nc1ccccn1)C(=O)Nc1cccc(c1)Cl,Sweetness,True,Sweetness,False,False,GAD
+3-[(3-chlorophenyl)carbamoyl]-3-{[(4-cyanophenyl)carbamoyl]amino}propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)Cl,Sweetness,True,Sweetness,False,False,GAD
+"3-[(3-cyclohexyl-1-methoxy-1-oxopropan-2-yl)carbamoyl]-3-[(3,3-dimethylbutyl)amino]propanoic acid",COC(=O)C(CC1CCCCC1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GALGAD
+3-[(3-cyclohexyl-1-methoxy-1-oxopropan-2-yl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,COC(=O)C(CC1CCCCC1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GALGAD
+3-[(3-methylphenyl)carbamoyl]-3-[({[(pyridin-2-yl)carbamoyl]amino}carbonyl)amino]propanoic acid,Cc1cccc(c1)NC(=O)C(CC(O)=O)NC(=O)NC(=O)Nc1ccccn1,Sweetness,True,Sweetness,False,False,GAD
+"3-[(4-bromophenyl)carbamoyl]-3-(2,2,2-trifluoroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(F)(F)F)C(=O)Nc1ccc(cc1)Br,Sweetness,True,Sweetness,False,False,GAD
+3-[(4-chlorophenyl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)Nc1ccc(cc1)Cl,Sweetness,True,Sweetness,False,False,GAD
+3-[(4-cyanophenyl)carbamoyl]-3-{[(4-nitrophenyl)carbamoyl]amino}propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)N(=O)=O)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+"3-[(4-fluorophenyl)carbamoyl]-3-(2,2,2-trichloroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(Cl)(Cl)Cl)C(=O)Nc1ccc(cc1)F,Sweetness,True,Sweetness,False,False,GAD
+"3-[(4-fluorophenyl)carbamoyl]-3-(2,2,2-trifluoroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(F)(F)F)C(=O)Nc1ccc(cc1)F,Sweetness,True,Sweetness,False,False,GAD
+3‐[(cyclohexylmethyl)amino]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC1CCCCC1,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐[(cyclopentylmethyl)amino]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC1CCCC1,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(cyclopropylmethyl)amino]-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCC1CC1,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(formylcarbamoyl)amino]-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)NC=O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[(formylcarbamoyl)amino]-3-[(2-methoxy-2-oxo-1-phenylethyl)carbamoyl]propanoic acid,COC(=O)C(NC(=O)C(CC(O)=O)NC(=O)NC=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+3-[[3-(3-hydroxy-4-methoxyphenyl)-3-methylbutyl]amino]-4-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)amino]-4-oxobutanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)c1ccc(c(c1)O)OC,Sweetness,True,Sweetness,False,False,GAFGAD
+3-[3-(3-hydroxy-4-methoxyphenyl)propylamino]-4-[(3-hydroxy-5-phenylheptan-2-yl)amino]-4-oxobutanoic acid,CCC(CC(O)C(C)NC(=O)C(CC(O)=O)NCCCc1ccc(c(c1)O)OC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3‐[N'‐(4‐cyanophenyl)carbamimidamido]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=N)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐[N''‐cyano‐N'‐(4‐cyanophenyl)carbamimidamido]‐3‐[(1‐methoxy‐1‐oxo‐3‐phenylpropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(Nc1ccc(cc1)C#N)=NC#N,Sweetness,True,Sweetness,False,False,GAFGAD
+3‐[N''‐cyano‐N'‐(4‐cyanophenyl)carbamimidamido]‐3‐[(1‐phenylethyl)carbamoyl]propanoic acid,CC(NC(=O)C(CC(O)=O)NC(Nc1ccc(cc1)C#N)=NC#N)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-acetylphenyl)carbamoyl]amino}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C(C)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-{[(4-cyanophenyl)carbamothioyl]amino}-3-({1-[(dicyclopropylmethyl)carbamoyl]ethyl}carbamoyl)propanoic acid,CC(NC(=O)C(CC(O)=O)NC(=S)Nc1ccc(cc1)C#N)C(=O)NC(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAGAD
+3-{[(4-cyanophenyl)carbamothioyl]amino}-3-[(1-phenylethyl)carbamoyl]propanoic acid,CC(NC(=O)C(CC(O)=O)NC(=S)Nc1ccc(cc1)C#N)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-({1-[(dicyclopropylmethyl)carbamoyl]ethyl}carbamoyl)propanoic acid,CC(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N)C(=O)NC(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(1,1,1-trifluoro-3-methoxy-3-oxopropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N)C(F)(F)F,Sweetness,True,Sweetness,False,False,GAGAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(1-methoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(C)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAGAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(1-phenylethyl)carbamoyl]propanoic acid,CC(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(2-methoxy-2-oxo-1-phenylethyl)carbamoyl]propanoic acid,COC(=O)C(NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+"3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3,4-dimethylphenyl)carbamoyl]propanoic acid",Cc1ccc(cc1C)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-ethylphenyl)carbamoyl]propanoic acid,CCc1cccc(c1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-fluorophenyl)carbamoyl]propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)F,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-hydroxy-1-methoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CO)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GASGAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-hydroxy-1-oxo-1-propoxypropan-2-yl)carbamoyl]propanoic acid,CCCOC(=O)C(CO)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GASGAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-hydroxyphenyl)carbamoyl]propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)O,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-methoxyphenyl)carbamoyl]propanoic acid,COc1cccc(c1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-methylphenyl)carbamoyl]propanoic acid,Cc1cccc(c1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-[(3-nitrophenyl)carbamoyl]propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-{[3-(hydroxymethyl)phenyl]carbamoyl}propanoic acid,OCc1cccc(c1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-cyanophenyl)carbamoyl]amino}-3-{[3-(trifluoromethyl)phenyl]carbamoyl}propanoic acid,OC(=O)CC(NC(=O)Nc1ccc(cc1)C#N)C(=O)Nc1cccc(c1)C(F)(F)F,Sweetness,True,Sweetness,False,False,GAD
+3-{[(4-fluorophenyl)carbamoyl]amino}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)F,Sweetness,True,Sweetness,False,False,GAFGAD
+3-{[(4-nitrophenyl)carbamoyl]amino}-3-[(1-oxo-1-propoxypropan-2-yl)carbamoyl]propanoic acid,CCCOC(=O)C(C)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)N(=O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-{[1-(acetyloxy)-3-hydroxybutan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(O)C(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[1-(acetyloxy)-3-hydroxypropan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[1-(acetyloxy)-3-methylbutan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(C)C(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[1-(acetyloxy)pentan-2-yl]carbamoyl}-3-aminopropanoic acid,CCCC(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[1-(acetyloxy)propan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-{[2-(acetyloxy)ethyl]carbamoyl}-3-aminopropanoic acid,CC(=O)OCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-{[3-(2,4-dihydroxyphenyl)propyl]amino}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1ccc(cc1O)O,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-{[3-(3,4-dihydroxyphenyl)-3-methylbutyl]amino}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)c1ccc(c(c1)O)O,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-{[3-(3,4-dihydroxyphenyl)propyl]amino}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1ccc(c(c1)O)O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-{[3-(3-hydroxy-4-methoxyphenyl)propyl]carbamoyl}-3-[(1-methoxy-1-oxo-3-phenylpropan-2-yl)amino]propanoic acid,COC(=O)C(Cc1ccccc1)NC(CC(O)=O)C(=O)NCCCc1ccc(c(c1)O)OC,Sweetness,True,Sweetness,False,False,GGAADF
+3-{[3-(acetyloxy)-1-methoxy-1-oxopropan-2-yl]carbamoyl}-3-aminopropanoic acid,COC(=O)C(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+"3-{[3-(tert-butoxy)-1-methoxy-1-oxopropan-2-yl]carbamoyl}-3-[(3,3-dimethylbutyl)amino]propanoic acid",COC(=O)C(COC(C)(C)C)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GASGAD
+"3-{[3-(tert-butylsulfanyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}-3-[(3,3-dimethylbutyl)amino]propanoic acid",COC(=O)C(CSC(C)(C)C)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GACGAD
+"3-{[4-(methanethioyl)phenyl]carbamoyl}-3-(2,2,2-trichloroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(Cl)(Cl)Cl)C(=O)Nc1ccc(cc1)C=S,Sweetness,True,Sweetness,False,False,GAD
+"3-{[4-(methanethioyl)phenyl]carbamoyl}-3-(2,2,2-trifluoroacetamido)propanoic acid",OC(=O)CC(NC(=O)C(F)(F)F)C(=O)Nc1ccc(cc1)C=S,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({[(2-methoxy-1-phenylethyl)carbamoyl](phenyl)methyl}carbamoyl)propanoic acid,COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+"3‐Amino‐3‐({1‐[(1,1,3,3‐tetramethyl‐1lambda4‐thietan‐2‐yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)CS1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(1,1-dicyclopropylethyl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAGAD
+3‐Amino‐3‐({1‐[(1‐methoxy‐3‐methylbutan‐2‐yl)carbamoyl]‐2‐methylpropyl}carbamoyl)propanoic acid (isomer I),COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)C(C)C,Sweetness,True,Sweetness,False,False,GAVGAD
+3‐Amino‐3‐({1‐[(1‐methoxy‐3‐methylbutan‐2‐yl)carbamoyl]‐2‐methylpropyl}carbamoyl)propanoic acid (isomer II),COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)C(C)C,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-({1-[(1-phenylbutyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCCC(NC(=O)C(CC)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(1-phenylethyl)carbamoyl]butyl}carbamoyl)propanoic acid,CCCC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3‐Amino‐3‐({1‐[(1‐phenylethyl)carbamoyl]ethyl}carbamoyl)propanoic acid (isomer I),CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3‐Amino‐3‐({1‐[(1‐phenylethyl)carbamoyl]ethyl}carbamoyl)propanoic acid (isomer II),CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2,3,4,4-pentamethylpentan-3-yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)(C(C)(C)C)C(C)(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2,4,4-tetramethyl-1,1-dioxo-1lambda6-thietan-3-yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)S(=O)(=O)C1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2,4,4-tetramethyl-1-oxo-1lambda4-thietan-3-yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)S(=O)C1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2,4,4-tetramethylcyclobutyl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)CC1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2,6,6-tetramethylcyclohexyl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)CCCC1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,2-dimethylpropanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid",CC(COC(=O)C(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-({1-[(2,3,4-trimethylpentan-3-yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(C)C(C)(NC(=O)C(C)NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,6-dimethylcyclohexyl)formamido]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)NC(=O)C1C(C)CCCC1C,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-({1-[(2,6-dimethylcyclohexyl)oxy]-1-oxopropan-2-yl}carbamoyl)propanoic acid",CC1CCCC(C)C1OC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2,6-dimethylcyclohexyl)oxy]-3-methoxy-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1C(C)CCCC1C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-({1-[(2,6-dimethylphenyl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)Nc1c(cccc1C)C,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-[(2-cyclopropyl-3,3-dimethylbutan-2-yl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)(C1CC1)C(C)(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(2-cyclopropylpropan-2-yl)carbamoyl]ethyl}carbamoyl)propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)NC(C)(C)C1CC1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(2-ethoxy-1-phenylethyl)carbamoyl]-2-methylpropyl}carbamoyl)propanoic acid,CCOCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-({1-[(2-ethylbutanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CCC(CC)C(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-[(2-methoxy-1-phenylethyl)carbamoyl]-2-methylbutyl}carbamoyl)propanoic acid,CCC(C)C(NC(=O)C(N)CC(O)=O)C(=O)NC(COC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVIGAD
+3‐Amino‐3‐({1‐[(2‐methoxy‐1‐phenylethyl)carbamoyl]‐2‐methylpropyl}carbamoyl)propanoic acid (isomer I),COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+3‐Amino‐3‐({1‐[(2‐methoxy‐1‐phenylethyl)carbamoyl]‐2‐methylpropyl}carbamoyl)propanoic acid (isomer II),COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-({1-[(2-methoxy-1-phenylethyl)carbamoyl]ethyl}carbamoyl)propanoic acid,COCC(NC(=O)C(C)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(2-methoxy-1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCC(NC(=O)C(N)CC(O)=O)C(=O)NC(COC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(2-methylbutanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CCC(C)C(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-[(2-methylprop-2-enoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CC(COC(=O)C(C)=C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-[(2-methylpropanoyl)oxy]butan-2-yl}carbamoyl)propanoic acid,CCC(COC(=O)C(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-[(2-methylpropanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CC(C)C(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-({1-[(3-hydroxy-2,2,4,4-tetramethylcyclobutyl)carbamoyl]ethyl}carbamoyl)propanoic acid",CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)C(O)C1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(3-methylbutanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CC(C)CC(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-[(3-methylpentan-3-yl)carbamoyl]ethyl}carbamoyl)propanoic acid,CCC(C)(CC)NC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(dicyclopropylmethyl)carbamoyl]-2-methylpropyl}carbamoyl)propanoic acid,CC(C)C(NC(=O)C(N)CC(O)=O)C(=O)NC(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-({1-[(dicyclopropylmethyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCC(NC(=O)C(N)CC(O)=O)C(=O)NC(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({1-[(diphenylmethyl)carbamoyl]ethyl}carbamoyl)propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)NC(c1ccccc1)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-({1-ethoxy-3-[(2-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-({1-hydroxy-3-[(2-methylbutanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CCC(C)C(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-hydroxy-3-[(2-methylpropanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CC(C)C(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({1-hydroxy-3-[(3-methylbutanoyl)oxy]propan-2-yl}carbamoyl)propanoic acid,CC(C)CC(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-({1-methoxy-1,3-dioxo-3-[(3,3,5-trimethylcyclohexyl)oxy]propan-2-yl}carbamoyl)propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CC(C)CC(C)(C)C1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-({1-methoxy-3-[(2-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid (isomer I)",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-({1-methoxy-3-[(2-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid (isomer II)",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-({1-methoxy-3-[(2-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid (isomer III)",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-({1-methoxy-3-[(2-methylpropanoyl)oxy]-1-oxopropan-2-yl}carbamoyl)propanoic acid,COC(=O)C(COC(=O)C(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+"3-Amino-3-({1-methoxy-3-[(3-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCC(C)C1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-({1-methoxy-3-[(4-methylcyclohexyl)oxy]-1,3-dioxopropan-2-yl}carbamoyl)propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCC(C)CC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-({1-methyl-1-[(1-phenylpropyl)carbamoyl]ethyl}carbamoyl)propanoic acid (isomer I),CCC(NC(=O)C(C)(C)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAAGAD
+3-Amino-3-({1-methyl-1-[(1-phenylpropyl)carbamoyl]ethyl}carbamoyl)propanoic acid (isomer II),CCC(NC(=O)C(C)(C)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAAGAD
+3-Amino-3-({1-methyl-1-[(1-phenylpropyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCC(NC(=O)C(C)(CC)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAAGAD
+3-Amino-3-({1-oxo-1-[(1-phenylbutan-2-yl)oxy]butan-2-yl}carbamoyl)propanoic acid,CCC(Cc1ccccc1)OC(=O)C(CC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-({2-[(2-methylpropanoyl)oxy]ethyl}carbamoyl)propanoic acid,CC(C)C(=O)OCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({2-[(3-methylbutanoyl)oxy]ethyl}carbamoyl)propanoic acid,CC(C)CC(=O)OCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({2-methyl-1-[(1-phenylethyl)carbamoyl]propyl}carbamoyl)propanoic acid,CC(C)C(NC(=O)C(N)CC(O)=O)C(=O)NC(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-({2-methyl-1-[(1-phenylpropyl)carbamoyl]butyl}carbamoyl)propanoic acid,CCC(C)C(NC(=O)C(N)CC(O)=O)C(=O)NC(CC)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVIGAD
+3-Amino-3-({2-methyl-1-[(1-phenylpropyl)carbamoyl]propyl}carbamoyl)propanoic acid,CCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVGAD
+"3-Amino-3-({3-[(2,2-dimethylpropanoyl)oxy]-1-methoxy-1-oxopropan-2-yl}carbamoyl)propanoic acid",COC(=O)C(COC(=O)C(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-({3-methyl-1-[(1-phenylpropyl)carbamoyl]butyl}carbamoyl)propanoic acid,CCC(NC(=O)C(CC(C)C)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GALGAD
+3-Amino-3-({3-methyl-1-[(2-methylpropanoyl)oxy]butan-2-yl}carbamoyl)propanoic acid,CC(C)C(COC(=O)C(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-({cyclohexyl[(1-phenylpropyl)carbamoyl]methyl}carbamoyl)propanoic acid,CCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C1CCCCC1)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVIIGAD
+3-Amino-3-({cyclohexyl[(2-methoxy-1-phenylethyl)carbamoyl]methyl}carbamoyl)propanoic acid,COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C1CCCCC1)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVIIGAD
+3-Amino-3-({cyclopentyl[(1-phenylpropyl)carbamoyl]methyl}carbamoyl)propanoic acid,CCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C1CCCC1)c1ccccc1,Sweetness,True,Sweetness,False,False,GAVIIGAD
+3-Amino-3-({phenyl[(1-phenylethyl)carbamoyl]methyl}carbamoyl)propanoic acid,CC(NC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+"3‐Amino‐3‐[(1,3‐diethoxy‐1,3‐dioxopropan‐2‐yl)carbamoyl]propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OCC,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3‐Amino‐3‐[(1,4‐dimethoxy‐1,4‐dioxobutan‐2‐yl)carbamoyl]propanoic acid",COC(=O)CC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAD
+"3-Amino-3-[(1,5-dimethoxy-1,5-dioxopentan-2-yl)carbamoyl]propanoic acid",COC(=O)CCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAEGAD
+"3-Amino-3-[(1,5-dimethoxy-4-methyl-1,5-dioxopentan-2-yl)carbamoyl]propanoic acid",COC(=O)C(C)CC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GALEGAD
+"3‐Amino‐3‐[(1,6‐dimethoxy‐1,6‐dioxohexan‐2‐yl)carbamoyl]propanoic acid",COC(=O)CCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-[(1-{[(tert-butoxy)carbonyl]oxy}-3-ethoxy-1,3-dioxopropan-2-yl)carbamoyl]propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC(=O)OC(C)(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-[(1-{[1-(4-hydroxyphenyl)propyl]carbamoyl}propyl)carbamoyl]propanoic acid,CCC(NC(=O)C(N)CC(O)=O)C(=O)NC(CC)c1ccc(cc1)O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-butoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,CCCCOC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3‐Amino‐3‐[(1‐butoxy‐3‐hydroxy‐1‐oxobutan‐2‐yl)carbamoyl]propanoic acid (isomer I),CCCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3‐Amino‐3‐[(1‐butoxy‐3‐hydroxy‐1‐oxobutan‐2‐yl)carbamoyl]propanoic acid (isomer II),CCCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(1-butoxy-3-hydroxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,CCCCOC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-[(1-cyclohexylpropan-2-yl)carbamoyl]propanoic acid (isomer I),CC(CC1CCCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(1-cyclohexylpropan-2-yl)carbamoyl]propanoic acid (isomer II),CC(CC1CCCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(1-ethoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid,CCCCC(NC(=O)C(N)CC(O)=O)C(=O)OCC,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-ethoxy-3-hydroxy-1-oxobutan-2-yl)carbamoyl]propanoic acid (isomer I),CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(1-ethoxy-3-hydroxy-1-oxobutan-2-yl)carbamoyl]propanoic acid (isomer II),CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(1-ethoxy-3-hydroxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,CCOC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-[(1-hydroxy-1-phenylpropan-2-yl)carbamoyl]propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(1-hydroxy-3-methoxy-3-oxo-1-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(NC(=O)C(N)CC(O)=O)C(O)c1ccccc1,Sweetness,True,Sweetness,False,False,GASFGAD
+3-Amino-3-[(1-methoxy-1-oxo-2-phenylpropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(C)(NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+"3‐Amino‐3‐[(1‐methoxy‐1‐oxo‐3‐{2,2,6‐trimethylbicyclo[2.2.1]heptan‐1‐yl}propan‐2‐yl)carbamoyl]propanoic acid",COC(=O)C(CC12CC(CC1C)CC2(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALLLGAD
+"3‐Amino‐3‐[(1‐methoxy‐1‐oxo‐3‐{2,7,7‐trimethylbicyclo[2.2.1]heptan‐1‐yl}propan‐2‐yl)carbamoyl]propanoic acid",COC(=O)C(CC12CCC(CC1C)C2(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALLLGAD
+3-Amino-3-[(1-methoxy-1-oxo-3-phenylbutan-2-yl)carbamoyl]propanoic acid,COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAFGAD
+3-Amino-3-[(1-methoxy-1-oxo-4-phenylbutan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CCc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-methoxy-1-oxoheptan-2-yl)carbamoyl]propanoic acid,CCCCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-methoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid (isomer I),CCCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-methoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid (isomer II),CCCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-methoxy-1-oxooctan-2-yl)carbamoyl]propanoic acid,CCCCCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-methoxy-2-methyl-1-oxo-4-phenylbutan-2-yl)carbamoyl]propanoic acid,COC(=O)C(C)(CCc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAAGAD
+3‐Amino‐3‐[(1‐methoxy‐3‐{2‐methylbicyclo[2.2.1]heptan‐1‐yl}‐1‐oxopropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(CC12CCC(CC1C)C2)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALLLGAD
+3-Amino-3-[(1-methoxy-3-methyl-1-oxohexan-2-yl)carbamoyl]propanoic acid,CCCC(C)C(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAVIGAD
+3-Amino-3-[(1-methoxy-5-methyl-1-oxohexan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CCC(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-[(1-phenoxypropan-2-yl)carbamoyl]propanoic acid,CC(COc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3‐Amino‐3‐[(2‐{4‐methyl‐2,6,7‐trioxabicyclo[2.2.2]octan‐1‐yl}propan‐2‐yl)carbamoyl]propanoic acid",CC(C)(NC(=O)C(N)CC(O)=O)C12OCC(C)(CO1)CO2,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(2-butoxy-2-oxoethyl)carbamoyl]propanoic acid,CCCCOC(=O)CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GGAD
+3-Amino-3-[(2-methyl-1-phenylpropan-2-yl)carbamoyl]propanoic acid,CC(C)(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3‐Amino‐3‐[(3‐{7,7‐dimethylbicyclo[2.2.1]heptan‐1‐yl}‐1‐methoxy‐1‐oxopropan‐2‐yl)carbamoyl]propanoic acid",COC(=O)C(CC12CCC(CC1)C2(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALLLGAD
+3‐Amino‐3‐[(3‐{bicyclo[2.2.1]heptan‐1‐yl}‐1‐methoxy‐1‐oxopropan‐2‐yl)carbamoyl]propanoic acid,COC(=O)C(CC12CCC(CC1)C2)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALLLGAD
+3-Amino-3-[(3-hydroxy-1-methoxy-1-oxobutan-2-yl)carbamoyl]propanoic acid (isomer I),COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(3-hydroxy-1-methoxy-1-oxobutan-2-yl)carbamoyl]propanoic acid (isomer II),COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3‐Amino‐3‐[(3‐hydroxy‐1‐methoxy‐1‐oxohexan‐2‐yl)carbamoyl]propanoic acid (isomer I),CCCC(O)C(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GASTGAD
+3‐Amino‐3‐[(3‐hydroxy‐1‐methoxy‐1‐oxohexan‐2‐yl)carbamoyl]propanoic acid (isomer II),CCCC(O)C(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(3-hydroxy-1-methoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid (isomer I),COC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-[(3-hydroxy-1-oxo-1-propoxybutan-2-yl)carbamoyl]propanoic acid (isomer I),CCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(3-hydroxy-1-oxo-1-propoxybutan-2-yl)carbamoyl]propanoic acid (isomer II),CCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-[(3-hydroxy-1-oxo-1-propoxypropan-2-yl)carbamoyl]propanoic acid,CCCOC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-[(3-hydroxy-5-phenylheptan-2-yl)carbamoyl]propanoic acid,CCC(CC(O)C(C)NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(3-methyl-1-oxo-1-propoxybutan-2-yl)carbamoyl]propanoic acid,CCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-[(3-methyloctan-2-yl)carbamoyl]propanoic acid,CCCCCC(C)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-[(4-ethoxy-1-methoxy-1,4-dioxobutan-2-yl)carbamoyl]propanoic acid",CCOC(=O)CC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GADGAD
+3-Amino-3-[(4-ethoxy-4-oxobutan-2-yl)carbamoyl]propanoic acid,CCOC(=O)CC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(4-ethoxybutan-2-yl)carbamoyl]propanoic acid,CCOCCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(4-methoxy-4-oxobutan-2-yl)carbamoyl]propanoic acid,COC(=O)CC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(5-acetamido-1-methoxy-1-oxopentan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CCCNC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+"3‐Amino‐3‐[(5‐hydroxy‐6‐{2,6,6‐trimethylbicyclo[2.2.1]hept‐2‐en‐1‐yl}hexa‐1,3‐dien‐1‐yl)carbamoyl]propanoic acid (isomer I)",CC1=CC2CC(C)(C)C1(CC(O)C=CC=CNC(=O)C(N)CC(O)=O)C2,Sweetness,True,Sweetness,False,False,GAD
+"3‐Amino‐3‐[(5‐hydroxy‐6‐{2,6,6‐trimethylbicyclo[2.2.1]hept‐2‐en‐1‐yl}hexa‐1,3‐dien‐1‐yl)carbamoyl]propanoic acid (isomer II)",CC1=CC2CC(C)(C)C1(CC(O)C=CC=CNC(=O)C(N)CC(O)=O)C2,Sweetness,True,Sweetness,False,False,GAD
+"3‐Amino‐3‐[(5‐hydroxy‐6‐{2‐methylbicyclo[2.2.1]hept‐2‐en‐1‐yl}hexa‐1,3‐dien‐1‐yl)carbamoyl]propanoic acid",CC1=CC2CCC1(CC(O)C=CC=CNC(=O)C(N)CC(O)=O)C2,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-[(5-hydroxy-6-{3-methylbicyclo[2.2.1]heptan-2-yl}hexa-1,3-dien-1-yl)carbamoyl]propanoic acid",CC1C2CCC(C2)C1CC(O)C=CC=CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3‐Amino‐3‐[(5‐hydroxy‐6‐{6‐methylbicyclo[2.2.1]hept‐2‐en‐1‐yl}hexa‐1,3‐dien‐1‐yl)carbamoyl]propanoic acid",CC1CC2CC1(CC(O)C=CC=CNC(=O)C(N)CC(O)=O)C=C2,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-[(6-{6,6-dimethylbicyclo[2.2.1]hept-2-en-1-yl}-5-hydroxyhexa-1,3-dien-1-yl)carbamoyl]propanoic acid",CC1(C)CC2CC1(CC(O)C=CC=CNC(=O)C(N)CC(O)=O)C=C2,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-[(6-{bicyclo[2.2.1]hept-2-en-1-yl}-5-hydroxyhexa-1,3-dien-1-yl)carbamoyl]propanoic acid",NC(CC(O)=O)C(=O)NC=CC=CC(O)CC12CCC(C1)C=C2,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-[(6-acetamido-1-methoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CCCCNC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAKGAD
+3-Amino-3-[(6-methoxy-6-oxohexyl)carbamoyl]propanoic acid,COC(=O)CCCCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[(furan-2-yl)[(1-phenylpropyl)carbamoyl]methyl]carbamoyl}propanoic acid,CCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C1=CC=CO1)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+3-Amino-3-{[(furan-2-yl)[(2-methoxy-1-phenylethyl)carbamoyl]methyl]carbamoyl}propanoic acid,COCC(NC(=O)C(NC(=O)C(N)CC(O)=O)C1=CC=CO1)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+3-Amino-3-{[1-({bicyclo[2.2.1]heptan-2-yl}formamido)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)NC(=O)C1CC2CCC1C2,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[1-(2,2-dicyclopropylacetamido)ethyl]carbamoyl}propanoic acid",CC(NC(=O)C(N)CC(O)=O)NC(=O)C(C1CC1)C1CC1,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[1-(2,2-dimethylpropanamido)ethyl]carbamoyl}propanoic acid",CC(NC(=O)C(N)CC(O)=O)NC(=O)C(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(2-methylcyclobutanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CCC1C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(2-methylcyclopropanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CC1C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(4-hydroxyphenyl)propan-2-yl]carbamoyl}propanoic acid,CC(Cc1ccc(cc1)O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(butanoyloxy)-3-hydroxypropan-2-yl]carbamoyl}propanoic acid,CCCC(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(butanoyloxy)-3-methylbutan-2-yl]carbamoyl}propanoic acid,CCCC(=O)OCC(NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(butanoyloxy)propan-2-yl]carbamoyl}propanoic acid,CCCC(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclobutanecarbonyloxy)-3-hydroxypropan-2-yl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(CO)COC(=O)C1CCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclobutanecarbonyloxy)-3-methylbutan-2-yl]carbamoyl}propanoic acid,CC(C)C(COC(=O)C1CCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclobutanecarbonyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(COC(=O)C1CCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclobutanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclohexylcarbamoyl)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)NC1CCCCC1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-(cyclohexylformamido)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)NC(=O)C1CCCCC1,Sweetness,True,Sweetness,False,False,GAD
+3‐Amino‐3‐{[1‐(cyclohexyloxy)‐1‐oxopropan‐2‐yl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GAGAD
+"3-Amino-3-{[1-(cyclohexyloxy)-3-ethoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid (isomer I)",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-(cyclohexyloxy)-3-ethoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid (isomer II)",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3‐Amino‐3‐{[1‐(cyclohexyloxy)‐3‐hydroxy‐1‐oxobutan‐2‐yl]carbamoyl}propanoic acid (isomer I),CC(O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GASTGAD
+3‐Amino‐3‐{[1‐(cyclohexyloxy)‐3‐hydroxy‐1‐oxobutan‐2‐yl]carbamoyl}propanoic acid (isomer II),CC(O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-{[1-(cyclohexyloxy)-3-hydroxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(CO)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GADGAS
+"3-Amino-3-{[1-(cyclohexyloxy)-3-methoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid (isomer I)",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-(cyclohexyloxy)-3-methoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid (isomer II)",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-{[1-(cyclopentanecarbonyloxy)-3-hydroxypropan-2-yl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(CO)COC(=O)C1CCCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclopentanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclopentylformamido)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)NC(=O)C1CCCC1,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[1-(cyclopentyloxy)-3-ethoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-(cyclopentyloxy)-3-methoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CCCC1,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-{[1-(cyclopropanecarbonyloxy)-3-hydroxypropan-2-yl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(CO)COC(=O)C1CC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclopropanecarbonyloxy)-3-methylbutan-2-yl]carbamoyl}propanoic acid,CC(C)C(COC(=O)C1CC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclopropanecarbonyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(COC(=O)C1CC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(cyclopropanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(pentanoyloxy)propan-2-yl]carbamoyl}propanoic acid,CCCCC(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(phenylcarbamoyl)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)Nc1ccccc1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-(phenylformamido)ethyl]carbamoyl}propanoic acid,CC(NC(=O)C(N)CC(O)=O)NC(=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(prop-2-enoyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C=C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(propanoyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(COC(=O)CC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(propanoyloxy)propan-2-yl]carbamoyl}propanoic acid,CCC(=O)OCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-(tert-butoxy)-1-oxo-3-phenylpropan-2-yl]carbamoyl}propanoic acid,CC(C)(C)OC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+"3-Amino-3-{[1-(tert-butoxy)-3-ethoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC(C)(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-(tert-butoxy)-3-methoxy-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC(C)(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-ethoxy-1,3-dioxo-3-({1,3,3-trimethylbicyclo[2.2.1]heptan-2-yl}oxy)propan-2-yl]carbamoyl}propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1C(C)(C)C2CCC1(C)C2,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3‐Amino‐3‐{[1‐ethoxy‐1,3‐dioxo‐3‐({2,7,7‐trimethylbicyclo[2.2.1]heptan‐1‐yl}oxy)propan‐2‐yl]carbamoyl}propanoic acid",CCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC12CCC(CC1C)C2(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3‐Amino‐3‐{[1‐ethoxy‐1,3‐dioxo‐3‐(pentyloxy)propan‐2‐yl]carbamoyl}propanoic acid",CCCCCOC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OCC,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-{[1-hydroxy-3-(4-hydroxyphenyl)propan-2-yl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(CO)Cc1ccc(cc1)O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[1-hydroxy-3-(propanoyloxy)propan-2-yl]carbamoyl}propanoic acid,CCC(=O)OCC(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[1-methoxy-1,3-dioxo-3-({1,7,7-trimethylbicyclo[2.2.1]heptan-2-yl}oxy)propan-2-yl]carbamoyl}propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CC2CCC1(C)C2(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+"3-Amino-3-{[1-methoxy-1,3-dioxo-3-({2,7,7-trimethylbicyclo[2.2.1]heptan-1-yl}oxy)propan-2-yl]carbamoyl}propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC12CCC(CC1C)C2(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-{[1-methoxy-1-oxo-3-(propan-2-ylsulfanyl)propan-2-yl]carbamoyl}propanoic acid,COC(=O)C(CSC(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GACGAD
+3-Amino-3-{[1-methoxy-1-oxo-3-(propanoyloxy)propan-2-yl]carbamoyl}propanoic acid,CCC(=O)OCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-{[1-methoxy-1-oxo-3-(propylsulfanyl)propan-2-yl]carbamoyl}propanoic acid,CCCSCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GACGAD
+3-Amino-3-{[1-methoxy-1-oxo-3-(thiophen-2-yl)propan-2-yl]carbamoyl}propanoic acid,COC(=O)C(CC1=CC=CS1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-methoxy-3-(2-methylpropoxy)-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(COCC(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+"3-Amino-3-{[1-methoxy-3-(3-methylbutoxy)-1,3-dioxopropan-2-yl]carbamoyl}propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OCCC(C)C,Sweetness,True,Sweetness,False,False,GGAASSGAD
+3-Amino-3-{[1-oxo-1-(pentyloxy)propan-2-yl]carbamoyl}propanoic acid,CCCCCOC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-oxo-1-(propan-2-yloxy)pentan-2-yl]carbamoyl}propanoic acid,CCCC(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[1-oxo-1-(propan-2-yloxy)propan-2-yl]carbamoyl}propanoic acid,CC(C)OC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-3-{[2-(butanoyloxy)ethyl]carbamoyl}propanoic acid,CCCC(=O)OCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[2-(cyclobutanecarbonyloxy)ethyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NCCOC(=O)C1CCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[2-(cyclopropanecarbonyloxy)ethyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NCCOC(=O)C1CC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[2-(propanoyloxy)ethyl]carbamoyl}propanoic acid,CCC(=O)OCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[2,3-dimethyl-1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid",CC(C)OC(=O)C(C)(NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAAVGAD
+3-Amino-3-{[2-ethyl-1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(CC)(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Sweetness,True,Sweetness,False,False,GAAGAD
+3-Amino-3-{[2-methyl-1-oxo-1-(propan-2-yloxy)propan-2-yl]carbamoyl}propanoic acid,CC(C)OC(=O)C(C)(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAAGAD
+3-Amino-3-{[2-methyl-3-oxo-3-(propan-2-yloxy)propyl]carbamoyl}propanoic acid,CC(C)OC(=O)C(C)CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[2-oxo-2-(propan-2-yloxy)ethyl]carbamoyl}propanoic acid,CC(C)OC(=O)CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GGAD
+3-Amino-3-{[3-(4-aminophenyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(Cc1ccc(cc1)N)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-Amino-3-{[3-(4-cyanophenyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(Cc1ccc(cc1)C#N)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+3-Amino-3-{[3-(butan-2-yloxy)-3-oxopropyl]carbamoyl}propanoic acid,CCC(C)OC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(butanoyloxy)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,CCCC(=O)OCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GASGAD
+3‐Amino‐3‐{[3‐(butylsulfanyl)‐1‐methoxy‐1‐oxopropan‐2‐yl]carbamoyl}propanoic acid,CCCCSCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GACGAD
+3-Amino-3-{[3-(cyclohexyloxy)-2-methyl-3-oxopropyl]carbamoyl}propanoic acid,CC(CNC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(cyclohexyloxy)-3-oxopropyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NCCC(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(cyclopentyloxy)-2-methyl-3-oxopropyl]carbamoyl}propanoic acid,CC(CNC(=O)C(N)CC(O)=O)C(=O)OC1CCCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(cyclopentyloxy)-3-oxopropyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NCCC(=O)OC1CCCC1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(ethylsulfanyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,CCSCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GACGAD
+3-Amino-3-{[3-(furan-2-yl)propyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NCCCC1=CC=CO1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(tert-butoxy)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(COC(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-{[3-(tert-butoxy)-2-methyl-3-oxopropyl]carbamoyl}propanoic acid,CC(CNC(=O)C(N)CC(O)=O)C(=O)OC(C)(C)C,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(tert-butoxy)-3-oxopropyl]carbamoyl}propanoic acid,CC(C)(C)OC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-(tert-butylsulfanyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(CSC(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GACGAD
+3-Amino-3-{[3-hydroxy-1-(2-methylpropoxy)-1-oxobutan-2-yl]carbamoyl}propanoic acid (isomer I),CC(C)COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-{[3-hydroxy-1-(2-methylpropoxy)-1-oxobutan-2-yl]carbamoyl}propanoic acid (isomer II),CC(C)COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-{[3-hydroxy-1-(2-methylpropoxy)-1-oxopropan-2-yl]carbamoyl}propanoic acid,CC(C)COC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-{[3-hydroxy-1-(propanoyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(=O)OCC(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-hydroxy-1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid (isomer I),CC(C)OC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-{[3-hydroxy-1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid (isomer II),CC(C)OC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Sweetness,True,Sweetness,False,False,GASTGAD
+3-Amino-3-{[3-hydroxy-1-oxo-1-(propan-2-yloxy)propan-2-yl]carbamoyl}propanoic acid,CC(C)OC(=O)C(CO)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GASGAD
+3-Amino-3-{[3-methyl-1-(propanoyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(=O)OCC(NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-methyl-1-oxo-1-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid,CC(C)OC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C,Sweetness,True,Sweetness,False,False,GAVGAD
+3-Amino-3-{[3-methyl-1-oxo-1-(propan-2-yloxy)pentan-2-yl]carbamoyl}propanoic acid,CCC(C)C(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Sweetness,True,Sweetness,False,False,GAVIGAD
+3-Amino-3-{[3-oxo-3-(pentan-2-yloxy)propyl]carbamoyl}propanoic acid,CCCC(C)OC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-oxo-3-(pentan-3-yloxy)propyl]carbamoyl}propanoic acid,CCC(CC)OC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[3-oxo-3-(propan-2-yloxy)propyl]carbamoyl}propanoic acid,CC(C)OC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[4-(butan-2-yloxy)-4-oxobutan-2-yl]carbamoyl}propanoic acid,CCC(C)OC(=O)CC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[4-(cyclohexyloxy)-4-oxobutan-2-yl]carbamoyl}propanoic acid,CC(CC(=O)OC1CCCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+"3-Amino-3-{[4-(tert-butoxy)-1-methoxy-1,4-dioxobutan-2-yl]carbamoyl}propanoic acid",COC(=O)C(CC(=O)OC(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GADGAD
+3-Amino-3-{[4-(tert-butoxy)-4-oxobutan-2-yl]carbamoyl}propanoic acid,CC(CC(=O)OC(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-3-{[4-oxo-4-(propan-2-yloxy)butan-2-yl]carbamoyl}propanoic acid,CC(C)OC(=O)CC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(4-cyanoanilino)-4-oxobutanoic acid,NC(CC(O)=O)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(4-methylhexan-2-ylamino)-4-oxobutanoic acid,CCC(C)CC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(5-methylhexan-2-ylamino)-4-oxobutanoic acid (isomer I),CC(C)CCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(5-methylhexan-2-ylamino)-4-oxobutanoic acid (isomer II),CC(C)CCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(heptan-2-ylamino)-4-oxobutanoic acid (isomer I),CCCCCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(heptan-3-ylamino)-4-oxobutanoic acid,CCCCC(CC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(heptylamino)-4-oxobutanoic acid,CCCCCCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(hexan-2-ylamino)-4-oxobutanoic acid,CCCCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(hexylamino)-4-oxobutanoic acid,CCCCCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-(octan-2-ylamino)-4-oxobutanoic acid,CCCCCCC(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[(1-ethoxy-1-oxopropan-2-yl)amino]-4-oxobutanoic acid,CCOC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-4-[(1-hydroxy-3-phenylpropan-2-yl)amino]-4-oxobutanoic acid,NC(CC(O)=O)C(=O)NC(CO)Cc1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[(1-methoxy-4-methylsulfanyl-1-oxobutan-2-yl)amino]-4-oxobutanoic acid (isomer I),COC(=O)C(CCSC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAMGAD
+3-Amino-4-[(3-methoxy-3-oxopropyl)amino]-4-oxobutanoic acid,COC(=O)CCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[(4-methoxy-4-oxobutyl)amino]-4-oxobutanoic acid,COC(=O)CCCNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[[1-(cyclopentylamino)-1-oxopropan-2-yl]amino]-4-oxobutanoic acid,CC(NC(=O)C(N)CC(O)=O)C(=O)NC1CCCC1,Sweetness,True,Sweetness,False,False,GAGAD
+3-Amino-4-[[3-(4-hydroxyphenyl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid (isomer I),COC(=O)C(Cc1ccc(cc1)O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFYGAD
+3-Amino-4-[1-(4-fluorophenyl)propan-2-ylamino]-4-oxobutanoic acid,CC(Cc1ccc(cc1)F)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[2-(4-fluorophenyl)ethylamino]-4-oxobutanoic acid,NC(CC(O)=O)C(=O)NCCc1ccc(cc1)F,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[2-(4-hydroxyphenyl)ethylamino]-4-oxobutanoic acid,NC(CC(O)=O)C(=O)NCCc1ccc(cc1)O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-[4-(furan-2-yl)butan-2-ylamino]-4-oxobutanoic acid,CC(CCC1=CC=CO1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-oxo-4-(1-phenylpropan-2-ylamino)butanoic acid (isomer I),CC(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-oxo-4-(2-phenoxyethylamino)butanoic acid,NC(CC(O)=O)C(=O)NCCOc1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-oxo-4-(4-phenylbutan-2-ylamino)butanoic acid,CC(CCc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+3-Amino-4-oxo-4-[(1-oxo-3-phenyl-1-propan-2-yloxypropan-2-yl)amino]butanoic acid,CC(C)OC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+"4-(4-cyanoanilino)-4-oxo-3-[(2,2,2-trichloroacetyl)amino]butanoic acid",OC(=O)CC(NC(=O)C(Cl)(Cl)Cl)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+"4-(4-cyanoanilino)-4-oxo-3-[(2,2,2-trifluoroacetyl)amino]butanoic acid",OC(=O)CC(NC(=O)C(F)(F)F)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+"4-Anilino-4-oxo-3-[(2,2,2-trifluoroacetyl)amino]butanoic acid",OC(=O)CC(NC(=O)C(F)(F)F)C(=O)Nc1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+"5-(4-cyanoanilino)-5-oxo-4-[(2,2,2-trifluoroacetyl)amino]pentanoic acid",OC(=O)CCC(NC(=O)C(F)(F)F)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAE
+Ac-D-Phe-L-Lys-OH,CC(=O)NC(Cc1ccccc1)C(=O)NC(CCCCN)C(O)=O,Sweetness,True,Sweetness,False,False,GAFGAK
+Ac-L-Phe-L-Lys-OH,CC(=O)NC(Cc1ccccc1)C(=O)NC(CCCCN)C(O)=O,Sweetness,True,Sweetness,False,False,GAFGAK
+Advantame,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCCc1ccc(c(c1)O)OC,Sweetness,True,Sweetness,False,False,GAFGAD
+Alitame,CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)SC1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+Aspartame,COC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+Aspartic acid fenchyl ester,COC(=O)C(NC(=O)C(N)C(O)=O)C(=O)OC1C(C)(C)C2CCC1(C)C2,Sweetness,True,Sweetness,False,False,GGAASSGGAAS
+Aspartyl-phenylalanyl-OBu,CCCCOC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+Aspartyl-phenylalanyl-OEt,CCOC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+Aspartyl-phenylalanyl-OPr,CCCOC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAFGAD
+D-Ala-L-Asp-L-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)C(C)N,Sweetness,True,Sweetness,False,False,GAFGADGA
+D-Ama-L-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(N)C(O)=O,Sweetness,True,Sweetness,False,False,GAFGGAAS
+Diazathiosuperaspartame,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=S)Nc1cnc(nc1)C#N,Sweetness,True,Sweetness,False,False,GAFGAD
+Heptylame,CCCCCCCNC(CC(O)=O)C(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAD
+L-(R)-retro-inverso analogue of aspartyl-alanyl tetramethylcyclopentyl,CC(NC(=O)C(N)CC(O)=O)NC(=O)C1C(C)(C)CCC1(C)C,Sweetness,True,Sweetness,False,False,GAD
+L-(S)-retro-inverso analogue of aspartyl-alanyl tetramethylcyclopentyl,CC(NC(=O)C(N)CC(O)=O)NC(=O)C1C(C)(C)CCC1(C)C,Sweetness,True,Sweetness,False,False,GAD
+L-Aspartyl-D-alanine methyl ester,COC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+L-Aspartyl-D-alanyl tetramethylcyclopentyl,CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)CCC1(C)C,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-D-Abu-Ome,CCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-D-Abu-Opr,CCCOC(=O)C(CC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-D-Ala-OPr,CCCOC(=O)C(C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-D-cHAla-OMe,COC(=O)C(CC1CCCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALGAD
+L-Asp-D-Nva-Opr,CCCOC(=O)C(CCC)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-Gly-OC6H11,NC(CC(O)=O)C(=O)NCC(=O)OC1CCCCC1,Sweetness,True,Sweetness,False,False,GADG
+L-Asp-Gly-Ome,COC(=O)CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GGAD
+L-Asp-Gly-Opr,CCCOC(=O)CNC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GGAD
+L-Asp-L-Ama(OFn)-Ome,COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1C(C)(C)C2CCC1(C)C2,Sweetness,True,Sweetness,False,False,GGAASSGAD
+L-Asp-L-cHAla-OMe,COC(=O)C(CC1CCCCC1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GALGAD
+L-Asp-L-Cys(tBu)-OMe,COC(=O)C(CS(C)(C)C)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GACGAD
+L-Asp-L-Nva-Ome (isomer I),CCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Sweetness,True,Sweetness,False,False,GAGAD
+L-Asp-NHCH2CH2C6H11,NC(CC(O)=O)C(=O)NCCC1CCCCC1,Sweetness,True,Sweetness,False,False,GAD
+N-(1-phenylbutan-2-yl)-alpha-asparagine,CCC(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+N-[1-(acetyloxy)butan-2-yl]-alpha-asparagine,CCC(COC(C)=O)NC(=O)C(N)CC(O)=O,Sweetness,True,Sweetness,False,False,GAD
+N-[3-(3-hydroxy-4-methoxy phenyl)-3-methylbutyl]-α-L-aspartyl-β-cyclohexyl-L-alanine 1-methylester,COC(=O)C(CC1CCCCC1)NC(=O)C(CC(O)=O)NCCC(C)(C)c1ccc(c(c1)O)OC,Sweetness,True,Sweetness,False,False,GALGAD
+N-[3-(3-hydroxy-4-methoxyphenyl)-3-methylbutyl]-α-L-aspartyl-S-tert-butyl-L-cysteine 1-methylester,COC(=O)C(CSC(C)(C)C)NC(=O)C(CC(O)=O)NCCC(C)(C)c1ccc(c(c1)O)OC,Sweetness,True,Sweetness,False,False,GACGAD
+"N-[3,3-dimethylbutyl]-α-L-aspartyl-(1R,2S,4S)-1-methyl-2- hydroxy-4-phenylhexylamide",CCC(CC(O)C(C)NC(=O)C(CC(O)=O)NCC(C)(C)C)c1ccccc1,Sweetness,True,Sweetness,False,False,GAD
+Neotame,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NCCC(C)(C)C,Sweetness,True,Sweetness,False,False,GAFGAD
+S-Aspartyl-(S)-(+)-phenylglycine methyl ester,COC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1,Sweetness,True,Sweetness,False,False,GGAD
+Superaspartame,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAFGAD
+Thiosuperaspartame,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=S)Nc1ccc(cc1)C#N,Sweetness,True,Sweetness,False,False,GAFGAD
+3-Amino-3-({1-methoxy-3-[(2-methylpropanoyl)oxy]-1-oxobutan-2-yl}carbamoyl)propanoic acid,COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)OC(=O)C(C)C,Bitterness,True,Bitterness,True,True,GASTGAD
+3-Amino-3-[(6-amino-1-methoxy-1-oxohexan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CCCCN)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAKGAD
+3-Amino-3-[(6-ethoxy-6-oxohexyl)carbamoyl]propanoic acid,CCOC(=O)CCCCCNC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-3-{[1-(1H-indol-2-yl)propan-2-yl]carbamoyl}propanoic acid,CC(CC1=Cc2ccccc2N1)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+"3-Amino-3-{[1-(2H-1,3-benzodioxol-5-yl)propan-2-yl]carbamoyl}propanoic acid",CC(Cc1ccc2c(c1)OCO2)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-3-{[1-(4-methanesulfonamidophenyl)propan-2-yl]carbamoyl}propanoic acid,CC(Cc1ccc(cc1)NS(C)(=O)=O)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-3-{[1-(dimethylcarbamoyl)-2-(4-hydroxyphenyl)ethyl]carbamoyl}propanoic acid,CN(C)C(=O)C(Cc1ccc(cc1)O)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAFYGAD
+3-Amino-3-{[1-(dimethylcarbamoyl)-2-phenylethyl]carbamoyl}propanoic acid,CN(C)C(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAD
+3-Amino-3-{[2-(4-hydroxyphenyl)-1-(methylcarbamoyl)ethyl]carbamoyl}propanoic acid,CNC(=O)C(Cc1ccc(cc1)O)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAFYGAD
+3-Amino-3-{[4-methyl-1-oxo-1-(propan-2-yloxy)pentan-2-yl]carbamoyl}propanoic acid,CC(C)CC(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Bitterness,True,Bitterness,True,True,GALGAD
+3-Amino-4-(4-methylpentan-2-ylamino)-4-oxobutanoic acid (isomer I),CC(C)CC(C)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-4-(4-methylpentan-2-ylamino)-4-oxobutanoic acid (isomer II),CC(C)CC(C)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-4-(hexan-3-ylamino)-4-oxobutanoic acid,CCCC(CC)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAD
+3-Amino-4-[(1-methoxy-3-methyl-1-oxobutan-2-yl)amino]-4-oxobutanoic acid,COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)C,Bitterness,True,Bitterness,True,True,GAVGAD
+3-Amino-4-[(1-methoxy-3-methyl-1-oxopentan-2-yl)amino]-4-oxobutanoic acid,CCC(C)C(NC(=O)C(N)CC(O)=O)C(=O)OC,Bitterness,True,Bitterness,True,True,GAVIGAD
+3-Amino-4-[(1-methoxy-4-methyl-1-oxopentan-2-yl)amino]-4-oxobutanoic acid,COC(=O)C(CC(C)C)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GALGAD
+3-Amino-4-[[1-(methylamino)-1-oxo-3-phenylpropan-2-yl]amino]-4-oxobutanoic acid,CNC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAD
+3-Amino-4-[[3-(1H-indol-3-yl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid (isomer I),COC(=O)C(CC1=CNc2ccccc12)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAGAD
+3-Amino-4-[[3-(1H-indol-3-yl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid (isomer II),COC(=O)C(CC1=CNc2ccccc12)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAGAD
+3-Amino-4-oxo-4-(2-phenylpropylamino)butanoic acid,CC(CNC(=O)C(N)CC(O)=O)c1ccccc1,Bitterness,True,Bitterness,True,True,GAD
+AF,CC(N)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAF
+cis-Cyclo(Gly-L-Phe),O=C1CNC(=O)C(Cc2ccccc2)N1,Bitterness,True,Bitterness,True,True,GGAF
+cis-Cyclo(L-Ala-Gly),CC1NC(=O)CNC1=O,Bitterness,True,Bitterness,True,True,GAG
+cis-Cyclo(L-Ala-L-IIe),CCC(C)C1NC(=O)C(C)NC1=O,Bitterness,True,Bitterness,True,True,GAVIGA
+cis-Cyclo(L-Ala-L-Leu),CC(C)CC1NC(=O)C(C)NC1=O,Bitterness,True,Bitterness,True,True,GALGA
+cis-Cyclo(L-Ala-L-Phe),CC1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GAGAF
+cis-Cyclo(L-Ala-L-Tyr),CC1NC(=O)C(Cc2ccc(cc2)O)NC1=O,Bitterness,True,Bitterness,True,True,GAGAFY
+cis-Cyclo(L-Ala-L-Val),CC(C)C1NC(=O)C(C)NC1=O,Bitterness,True,Bitterness,True,True,GAVGA
+cis-Cyclo(L-Asn-L-Phe),NC(=O)CC1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GANGAF
+cis-Cyclo(L-Asp-L-Phe),OC(=O)CC1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GADGAF
+cis-Cyclo(L-Ile-L-Phe),CCC(C)C1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GAVIGAF
+cis-Cyclo(L-Leu-Gly),CC(C)CC1NC(=O)CNC1=O,Bitterness,True,Bitterness,True,True,GALG
+cis-Cyclo(L-Leu-L-Phe),CC(C)CC1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GALGAF
+cis-Cyclo(L-Phe-L-Ser),OCC1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GASGAF
+cis-Cyclo(L-Val-L-Leu),CC(C)CC1NC(=O)C(NC1=O)C(C)C,Bitterness,True,Bitterness,True,True,GALGAV
+cis-Cyclo(L-Val-L-Phe),CC(C)C1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GAVGAF
+cis-Cyclo(L-Val-L-Tyr),CC(C)C1NC(=O)C(Cc2ccc(cc2)O)NC1=O,Bitterness,True,Bitterness,True,True,GAVGAFY
+cis-Cyclo(L-Val-L-Val),CC(C)C1NC(=O)C(NC1=O)C(C)C,Bitterness,True,Bitterness,True,True,GAVGAV
+D-Leu-D-Leu,CC(C)CC(N)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAL
+DLL,CC(C)CC(NC(=O)C(CC(C)C)NC(=O)C(N)CC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALGAD
+DV,CC(C)C(NC(=O)C(N)CC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAD
+DY,NC(CC(O)=O)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GADGAFY
+EEN,NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC(N)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAEGAEGAN
+EF,NC(CCC(O)=O)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAEGAF
+EGG,NC(CCC(O)=O)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAEGG
+EI,CCC(C)C(NC(=O)C(N)CCC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAE
+ELL,CC(C)CC(NC(=O)C(CC(C)C)NC(=O)C(N)CCC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALGAE
+EPAD,CC(NC(=O)C1CCCN1C(=O)C(N)CCC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAPGAEGAD
+EVLN,CC(C)CC(NC(=O)C(NC(=O)C(N)CCC(O)=O)C(C)C)C(=O)NC(CC(N)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAVGAEGAN
+FF,NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGAF
+FFG,NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAFG
+FFGG,NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAFGG
+FFPG,NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAFGAPG
+FGF,NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGGAF
+FGG,NC(Cc1ccccc1)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGG
+FI,CCC(C)C(NC(=O)C(N)Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAF
+FIV,CCC(C)C(NC(=O)C(N)Cc1ccccc1)C(=O)NC(C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAFGAV
+FLL,CC(C)CC(NC(=O)C(CC(C)C)NC(=O)C(N)Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALGAF
+FV,CC(C)C(NC(=O)C(N)Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAF
+FY,NC(Cc1ccccc1)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGAFY
+GFF,NCC(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGAFGAF
+GFG,NCC(=O)NC(Cc1ccccc1)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GGAFG
+GGF,NCC(=O)NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGGAF
+GGFF,NCC(=O)NCC(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGGAFGAF
+GGGGL,CC(C)CC(NC(=O)CNC(=O)CNC(=O)CNC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALGGGG
+GGGL,CC(C)CC(NC(=O)CNC(=O)CNC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALGGG
+GGGLG,CC(C)CC(NC(=O)CNC(=O)CNC(=O)CN)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGGG
+GGL,CC(C)CC(NC(=O)CNC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALGG
+GGLG,CC(C)CC(NC(=O)CNC(=O)CN)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGG
+GGLGG,CC(C)CC(NC(=O)CNC(=O)CN)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGGG
+GGP,NCC(=O)NCC(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GGGAP
+GGV,CC(C)C(NC(=O)CNC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGG
+GGVVV,CC(C)C(NC(=O)C(NC(=O)C(NC(=O)CNC(=O)CN)C(C)C)C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAVGAVGG
+GI,CCC(C)C(NC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIG
+GLG,CC(C)CC(NC(=O)CN)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGG
+GLGG,CC(C)CC(NC(=O)CN)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGG
+GLGGG,CC(C)CC(NC(=O)CN)C(=O)NCC(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGGG
+GLL,CC(C)CC(NC(=O)C(CC(C)C)NC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALG
+GLY,CC(C)CC(NC(=O)CN)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGGAFY
+GPFF,NCC(=O)N1CCCC1C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGAPGAFGAF
+GR,NCC(=O)NC(CCCN=C(N)N)C(O)=O,Bitterness,True,Bitterness,True,True,GGA
+GRP,NCC(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GGAGAP
+GV,CC(C)C(NC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GAVG
+GVV,CC(C)C(NC(=O)C(NC(=O)CN)C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAVG
+GW,NCC(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GGA
+GY,NCC(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GGAFY
+GYG,NCC(=O)NC(Cc1ccc(cc1)O)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GGAFYG
+GYY,NCC(=O)NC(Cc1ccc(cc1)O)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GGAFYGAFY
+IA,CCC(C)C(N)C(=O)NC(C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGA
+ID,CCC(C)C(N)C(=O)NC(CC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAD
+IE,CCC(C)C(N)C(=O)NC(CCC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAE
+IF,CCC(C)C(N)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAF
+IG,CCC(C)C(N)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAVIG
+II,CCC(C)C(N)C(=O)NC(C(C)CC)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAVI
+IK,CCC(C)C(N)C(=O)NC(CCCCN)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAK
+IL,CCC(C)C(N)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAL
+IN,CCC(C)C(N)C(=O)NC(CC(N)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAN
+IQ,CCC(C)C(N)C(=O)NC(CCC(N)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAQ
+IS,CCC(C)C(N)C(=O)NC(CO)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAS
+IT,CCC(C)C(N)C(=O)NC(C(C)O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAST
+IV,CCC(C)C(N)C(=O)NC(C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAV
+IW,CCC(C)C(N)C(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGA
+KF,NCCCCC(N)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAKGAF
+L-Ala-L-Leu,CC(C)CC(NC(=O)C(C)N)C(O)=O,Bitterness,True,Bitterness,True,True,GALGA
+L-Ala-L-Val,CC(C)C(NC(=O)C(C)N)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGA
+L-Aspartyl-L-alanine methyl ester,COC(=O)C(C)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAGAD
+L-Aspartyl-L-alanyl tetramethylcyclopentyl,CC(NC(=O)C(N)CC(O)=O)C(=O)NC1C(C)(C)CCC1(C)C,Bitterness,True,Bitterness,True,True,GAGAD
+L-Asp-D-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAD
+L-Asp-L-Nva-Oet,CCCC(NC(=O)C(N)CC(O)=O)C(=O)OCC,Bitterness,True,Bitterness,True,True,GAGAD
+LD,CC(C)CC(N)C(=O)NC(CC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAD
+Leu-Leu-Leu,CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALGAL
+Leu-Phe,CC(C)CC(N)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAF
+Leu-Trp,CC(C)CC(N)C(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GALGA
+LGG,CC(C)CC(N)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGG
+LGGG,CC(C)CC(N)C(=O)NCC(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGG
+LGGGG,CC(C)CC(N)C(=O)NCC(=O)NCC(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGGGG
+LGL,CC(C)CC(N)C(=O)NCC(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGGAL
+L-Glu-L-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(N)CCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGAE
+L-Gly-D-Leu,CC(C)CC(NC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALG
+L-Gly-D-Phe,NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGAF
+L-Gly-L-Leu,CC(C)CC(NC(=O)CN)C(O)=O,Bitterness,True,Bitterness,True,True,GALG
+L-Gly-L-Phe,NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GGAF
+LI,CCC(C)C(NC(=O)C(N)CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAL
+L-Leu-D-Leu,CC(C)CC(N)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAL
+L-Leu-L-Ala,CC(C)CC(N)C(=O)NC(C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGA
+L-Leu-L-Gly,CC(C)CC(N)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALG
+L-Leu-L-Leu,CC(C)CC(N)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAL
+LLG,CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGALG
+LLLL,CC(C)CC(N)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGALGALGAL
+L-Phe-L-Gly,NC(Cc1ccccc1)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFG
+L-Phe-L-Gly-L-Gly-L-Phe,NC(Cc1ccccc1)C(=O)NCC(=O)NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGGGAF
+L-Phe-L-Gly-L-Phe-L-Gly,NC(Cc1ccccc1)C(=O)NCC(=O)NC(Cc1ccccc1)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFGGAFG
+LRL,CC(C)CC(N)C(=O)NC(CCCN=C(N)N)C(=O)NC(CC(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAGAL
+LRP,CC(C)CC(N)C(=O)NC(CCCN=C(N)N)C(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GALGAGAP
+L-Val-L-Ala,CC(C)C(N)C(=O)NC(C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGA
+LY,CC(C)CC(N)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAFY
+NLQG,CC(C)CC(NC(=O)C(N)CC(N)=O)C(=O)NC(CCC(N)=O)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GALGANGAQG
+PA,CC(NC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAP
+PF,OC(=O)C(Cc1ccccc1)NC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GAFGAP
+PFIV,CCC(C)C(NC(=O)C(Cc1ccccc1)NC(=O)C1CCCN1)C(=O)NC(C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAFGAPGAV
+PFP,OC(=O)C1CCCN1C(=O)C(Cc1ccccc1)NC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GAPGAFGAP
+PFPP,OC(=O)C1CCCN1C(=O)C1CCCN1C(=O)C(Cc1ccccc1)NC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GAPGAPGAFGAP
+PG,OC(=O)CNC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GGAP
+PGG,OC(=O)CNC(=O)CNC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GGGAP
+PGI,CCC(C)C(NC(=O)CNC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGGAP
+PGP,OC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GAPGGAP
+PGPGPG,OC(=O)CNC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GGAPGGAPGGAP
+PGPIP,CCC(C)C(NC(=O)C1CCCN1C(=O)CNC(=O)C1CCCN1)C(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAPGGAPGAP
+PGR,NC(N)=NCCCC(NC(=O)CNC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGGAP
+Phe-Leu,CC(C)CC(NC(=O)C(N)Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAF
+Phe-Phe-Phe,NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGAFGAF
+Phe-Trp,NC(Cc1ccccc1)C(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GAFGA
+PI,CCC(C)C(NC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAP
+PIP,CCC(C)C(NC(=O)C1CCCN1)C(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAPGAP
+PK,NCCCCC(NC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAKGAP
+PL,CC(C)CC(NC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAP
+Pro-Arg,NC(N)=NCCCC(NC(=O)C1CCCN1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAP
+PY,OC(=O)C(Cc1ccc(cc1)O)NC(=O)C1CCCN1,Bitterness,True,Bitterness,True,True,GAFYGAP
+R-Aspartyl-(S)-(+)-phenylglycine methyl ester,COC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1,Bitterness,True,Bitterness,True,True,GGAD
+RF,NC(CCCN=C(N)N)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAF
+RG,NC(CCCN=C(N)N)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAG
+RGP,NC(CCCN=C(N)N)C(=O)NCC(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GAGGAP
+RPFG,NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NC(Cc1ccccc1)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAGAPGAFG
+RPGF,NC(CCCN=C(N)N)C(=O)N1CCCC1C(=O)NCC(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAPGGAF
+RR,NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(O)=O,Bitterness,True,Bitterness,True,True,GAGA
+RRR,NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(=O)NC(CCCN=C(N)N)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAGA
+S-Aspartyl-(R)-(-)-phenylglycine methyl ester,COC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1,Bitterness,True,Bitterness,True,True,GGAD
+SL,CC(C)CC(NC(=O)C(N)CO)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAS
+SLA,CC(C)CC(NC(=O)C(N)CO)C(=O)NC(C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGASGA
+trans-Cyclo(D-Ala-L-Val),CC(C)C1NC(=O)C(C)NC1=O,Bitterness,True,Bitterness,True,True,GAVGA
+trans-Cyclo(L-Val-D-Phe),CC(C)C1NC(=O)C(Cc2ccccc2)NC1=O,Bitterness,True,Bitterness,True,True,GAVGAF
+Trp-Leu,CC(C)CC(NC(=O)C(N)CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GALGA
+Trp-Phe,NC(CC1=CNc2ccccc12)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAF
+VI,CCC(C)C(NC(=O)C(N)C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAV
+VIF,CCC(C)C(NC(=O)C(N)C(C)C)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAVIGAVGAF
+VL,CC(C)CC(NC(=O)C(N)C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAV
+VVV,CC(C)C(N)C(=O)NC(C(C)C)C(=O)NC(C(C)C)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAVGAV
+VY,CC(C)C(N)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAFY
+VYP,CC(C)C(N)C(=O)NC(Cc1ccc(cc1)O)C(=O)N1CCCC1C(O)=O,Bitterness,True,Bitterness,True,True,GAVGAFYGAP
+WE,NC(CC1=CNc2ccccc12)C(=O)NC(CCC(O)=O)C(O)=O,Bitterness,True,Bitterness,True,True,GAGAE
+WW,NC(CC1=CNc2ccccc12)C(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GAGA
+YF,NC(Cc1ccc(cc1)O)C(=O)NC(Cc1ccccc1)C(O)=O,Bitterness,True,Bitterness,True,True,GAFYGAF
+YG,NC(Cc1ccc(cc1)O)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFYG
+YGG,NC(Cc1ccc(cc1)O)C(=O)NCC(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFYGG
+YGY,NC(Cc1ccc(cc1)O)C(=O)NCC(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GAFYGGAFY
+YL,CC(C)CC(NC(=O)C(N)Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GALGAFY
+YY,NC(Cc1ccc(cc1)O)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Bitterness,True,Bitterness,True,True,GAFYGAFY
+YYG,NC(Cc1ccc(cc1)O)C(=O)NC(Cc1ccc(cc1)O)C(=O)NCC(O)=O,Bitterness,True,Bitterness,True,True,GAFYGAFYG
+α-Glu-Trp,NC(CCC(O)=O)C(=O)NC(CC1=CNc2ccccc12)C(O)=O,Bitterness,True,Bitterness,True,True,GAEGA
+(S)-N2-((1-(N-butylamino)-carbonyl)-ethyl)guanosine 5'-monophosphate,CCCCNC(=O)C(C)NC1=NC2=C(N=CN2C2OC(COP(O)(O)=O)C(O)C2O)C(=O)N1,Umaminess,True,Umaminess,False,,GA
+AAPY,CC(N)C(=O)NC(C)C(=O)N1CCCC1C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Umaminess,True,Umaminess,False,,GAGAGAPGAFY
+Ala-Asp-Ala,CC(N)C(=O)NC(CC(O)=O)C(=O)NC(C)C(O)=O,Umaminess,True,Umaminess,False,,GAGADGA
+Ala-Asp-Glu,CC(N)C(=O)NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAGADGAE
+Ala-Glu,CC(N)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAGAE
+Ala-Glu-Ala,CC(N)C(=O)NC(CCC(O)=O)C(=O)NC(C)C(O)=O,Umaminess,True,Umaminess,False,,GAGAEGA
+Asp-Ala,CC(NC(=O)C(N)CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAGAD
+Asp-Asp,NC(CC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAD
+Asp-Asp + K+,[K+].NC(CC([O-])=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAD
+Asp-Glu,NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAE
+Asp-Glu + K+,[K+].NC(CC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAE
+Asp-Glu-Glu,NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAEGAE
+Asp-Glu-Ser,NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CO)C(O)=O,Umaminess,True,Umaminess,False,,GADGAEGAS
+Asp-Leu,CC(C)CC(NC(=O)C(N)CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAD
+CM,CSCCC(NC(=O)C(N)CS)C(O)=O,Umaminess,True,Umaminess,False,,GAMGAC
+DDD,NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGADGAD
+DDDD,NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGADGADGAD
+DDE,NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGADGAE
+DED,NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GADGAEGAD
+DEL,CC(C)CC(NC(=O)C(CCC(O)=O)NC(=O)C(N)CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAEGAD
+DG,NC(CC(O)=O)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GADG
+DGG,NC(CC(O)=O)C(=O)NCC(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GADGG
+EA,CC(NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAGAE
+EDD,NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGADGAD
+EDF,NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(O)=O,Umaminess,True,Umaminess,False,,GAEGADGAF
+EDV,CC(C)C(NC(=O)C(CC(O)=O)NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAVGADGAE
+EED,NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAEGAD
+EEE,NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAEGAE
+EG,NC(CCC(O)=O)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GAEG
+EN,NC(CCC(O)=O)C(=O)NC(CC(N)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAN
+ENE,NC(CCC(O)=O)C(=O)NC(CC(N)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGANGAE
+GCG,NCC(=O)NC(CS)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GGACG
+GGNP,NCC(=O)NCC(=O)NC(CC(N)=O)C(=O)N1CCCC1C(O)=O,Umaminess,True,Umaminess,False,,GGGANGAP
+Glu-Asp,NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAD
+Glu-Asp + K+,[K+].NC(CCC(O)=O)C(=O)NC(CC(O)=O)C([O-])=O,Umaminess,True,Umaminess,False,,GAEGAD
+Glu-Asp-Glu,NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGADGAE
+Glu-Gln-Glu,NC(CCC(O)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAQGAE
+Glu-Glu,NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAE
+Glu-Glu + K+,[K+].NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C([O-])=O,Umaminess,True,Umaminess,False,,GAEGAE
+Glu-Glu-Leu,CC(C)CC(NC(=O)C(CCC(O)=O)NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAEGAE
+Glu-Gly-Ser,NC(CCC(O)=O)C(=O)NCC(=O)NC(CO)C(O)=O,Umaminess,True,Umaminess,False,,GAEGGAS
+Glu-Leu,CC(C)CC(NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAE
+Glu-Lys,NCCCCC(NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAKGAE
+Glu-Ser,NC(CCC(O)=O)C(=O)NC(CO)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAS
+Glu-Thr,CC(O)C(NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASTGAE
+Glu-Val,CC(C)C(NC(=O)C(N)CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAVGAE
+Gly-Asp,NCC(=O)NC(CC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GGAD
+Gly-Asp-Gly,NCC(=O)NC(CC(O)=O)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GGADG
+Gly-Glu-Gly,NCC(=O)NC(CCC(O)=O)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GGAEG
+HV,CC(C)C(NC(=O)C(N)CC1=CNC=N1)C(O)=O,Umaminess,True,Umaminess,False,,GAVGAH
+INEL,CCC(C)C(N)C(=O)NC(CC(N)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GAVIGANGAEGAL
+KG,NCCCCC(N)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GAKG
+LDL,CC(C)CC(N)C(=O)NC(CC(O)=O)C(=O)NC(CC(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GALGADGAL
+Leu-Glu-Glu,CC(C)CC(N)C(=O)NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAEGAE
+LVG,CC(C)CC(N)C(=O)NC(C(C)C)C(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GALGAVG
+NY,NC(CC(N)=O)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Umaminess,True,Umaminess,False,,GANGAFY
+Orn-Orn.2HCl,Cl.Cl.NCCCC(N)C(=O)NC(CCCN)C(O)=O,Umaminess,True,Umaminess,False,,GAGA
+PAA,CC(NC(=O)C(C)NC(=O)C1CCCN1)C(O)=O,Umaminess,True,Umaminess,False,,GAGAGAP
+PAQ,CC(NC(=O)C1CCCN1)C(=O)NC(CCC(N)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAGAPGAQ
+PE,OC(=O)CCC(NC(=O)C1CCCN1)C(O)=O,Umaminess,True,Umaminess,False,,GAEGAP
+PET,CC(O)C(NC(=O)C(CCC(O)=O)NC(=O)C1CCCN1)C(O)=O,Umaminess,True,Umaminess,False,,GASTGAEGAP
+PSE,OCC(NC(=O)C1CCCN1)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASGAPGAE
+QL,CC(C)CC(NC(=O)C(N)CCC(N)=O)C(O)=O,Umaminess,True,Umaminess,False,,GALGAQ
+RKE,NCCCCC(NC(=O)C(N)CCCN=C(N)N)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAKGAGAE
+RL,CC(C)CC(NC(=O)C(N)CCCN=C(N)N)C(O)=O,Umaminess,True,Umaminess,False,,GALGA
+SE,NC(CO)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASGAE
+Ser-Glu-Glu,NC(CO)C(=O)NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASGAEGAE
+SF,NC(CO)C(=O)NC(Cc1ccccc1)C(O)=O,Umaminess,True,Umaminess,False,,GASGAF
+SFE,NC(CO)C(=O)NC(Cc1ccccc1)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASGAFGAE
+TAY,CC(O)C(N)C(=O)NC(C)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Umaminess,True,Umaminess,False,,GASTGAGAFY
+Thr-Glu,CC(O)C(N)C(=O)NC(CCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GASTGAE
+Val-Asp-Val,CC(C)C(N)C(=O)NC(CC(O)=O)C(=O)NC(C(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GAVGADGAV
+Val-Glu-Val,CC(C)C(N)C(=O)NC(CCC(O)=O)C(=O)NC(C(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GAVGAEGAV
+VAV,CC(C)C(N)C(=O)NC(C)C(=O)NC(C(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GAVGAGAV
+VDR,CC(C)C(N)C(=O)NC(CC(O)=O)C(=O)NC(CCCN=C(N)N)C(O)=O,Umaminess,True,Umaminess,False,,GAVGADGA
+VEL,CC(C)CC(NC(=O)C(CCC(O)=O)NC(=O)C(N)C(C)C)C(O)=O,Umaminess,True,Umaminess,False,,GALGAEGAV
+VGG,CC(C)C(N)C(=O)NCC(=O)NCC(O)=O,Umaminess,True,Umaminess,False,,GAVGG
+γ-L-Glutamyl-L-cysteinyl-glycine,NC(CCC(=O)NC(CS)C(=O)NCCC(O)=O)C(O)=O,Umaminess,True,Umaminess,False,,GAQGAC
+L-Ornithyltaurine,NCCCC(N)C(=O)NCCS(O)(=O)=O,Saltiness,True,Saltiness,False,,GA
+L-Ornithyl-γ-aminobutyric acid,NCCCC(N)C(=O)NCCCC(O)=O,Saltiness,True,Saltiness,False,,GA
+Lys-Tau.HCl,Cl.NCCCCC(N)C(=O)NCCS(O)(=O)=O,Saltiness,True,Saltiness,False,,GAK
+Orn-Tau.HCl,Cl.NCCCC(N)C(=O)NCCS(O)(=O)=O,Saltiness,True,Saltiness,False,,GA
+Orn-βAla.HCl,Cl.NCCCC(N)C(=O)NCCC(O)=O,Saltiness,True,Saltiness,False,,GA
+Orn-γAbu.HCl,Cl.NCCCC(N)C(=O)NCCCC(O)=O,Saltiness,True,Saltiness,False,,GA
+Ala-Asp,CC(N)C(=O)NC(CC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GAGAD
+APAP,CC(NC(=O)C1CCCN1C(=O)C(C)NC(=O)C1CCCN1)C(O)=O,Multitaste,True,Multitaste,False,,GAGAPGAGAP
+Asp-Asp + Na+,[Na+].NC(CC([O-])=O)C(=O)NC(CC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGAD
+Asp-Asp-Asp + Na+,[Na+].NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGADGAD
+Asp-Asp-Glu + Na+,[Na+].NC(CC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGADGAE
+Asp-Glu + Na+,[Na+].NC(CC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGAE
+Asp-Glu-Asp + Na+,[Na+].NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGAEGAD
+Asp-Glu-Glu + Na+,[Na+].NC(CC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GADGAEGAE
+EY,NC(CCC(O)=O)C(=O)NC(Cc1ccc(cc1)O)C(O)=O,Multitaste,True,Multitaste,False,,GAEGAFY
+GGY,NCC(=O)NCC(=O)NC(Cc1ccc(cc1)O)C(O)=O,Multitaste,True,Multitaste,False,,GGGAFY
+Glu-Asp + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CC(O)=O)C([O-])=O,Multitaste,True,Multitaste,False,,GAEGAD
+Glu-Asp-Asp + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GAEGADGAD
+Glu-Asp-Glu + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GAEGADGAE
+Glu-Glu + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C([O-])=O,Multitaste,True,Multitaste,False,,GAEGAE
+Glu-Glu-Asp + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GAEGAEGAD
+Glu-Glu-Glu + Na+,[Na+].NC(CCC(O)=O)C(=O)NC(CCC(O)=O)C(=O)NC(CCC([O-])=O)C(O)=O,Multitaste,True,Multitaste,False,,GAEGAEGAE
+Glu-Orn,NCCCC(NC(=O)C(N)CCC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GAGAE
+Glycyl-L-Ornithine,NCCCC(NC(=O)CN)C(O)=O,Multitaste,True,Multitaste,False,,GAG
+Gly-Glu,NCC(=O)NC(CCC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GGAE
+Leu-Glu,CC(C)CC(N)C(=O)NC(CCC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GALGAE
+L-Ornithylglycine,NCCCC(N)C(=O)NCC(O)=O,Multitaste,True,Multitaste,False,,GAG
+L-Ornithyl-β-Alanine,NCCCC(N)C(=O)NCCC(O)=O,Multitaste,True,Multitaste,False,,GA
+LV,CC(C)CC(N)C(=O)NC(C(C)C)C(O)=O,Multitaste,True,Multitaste,False,,GALGAV
+Lys-Gly.HCl,Cl.NCCCCC(N)C(=O)NCC(O)=O,Multitaste,True,Multitaste,False,,GAKG
+Orn-Ala.HCl,Cl.CC(NC(=O)C(N)CCCN)C(O)=O,Multitaste,True,Multitaste,False,,GAGA
+Val-Asp,CC(C)C(N)C(=O)NC(CC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GAVGAD
+Val-Glu,CC(C)C(N)C(=O)NC(CCC(O)=O)C(O)=O,Multitaste,True,Multitaste,False,,GAVGAE
+VF,CC(C)C(N)C(=O)NC(Cc1ccccc1)C(O)=O,Multitaste,True,Multitaste,False,,GAVGAF
+VG,CC(C)C(N)C(=O)NCC(O)=O,Multitaste,True,Multitaste,False,,GAVG
+VV,CC(C)C(N)C(=O)NC(C(C)C)C(O)=O,Multitaste,True,Multitaste,False,,GAVGAV
+2-Amino-2-{[1-oxo-1-(propan-2-yloxy)propan-2-yl]carbamoyl}acetic acid (isomer II),CC(C)OC(=O)C(C)NC(=O)C(N)C(O)=O,Tastelessness,True,Tastelessness,False,,GAGGAAS
+3-Amino-3-[(3-hydroxy-1-methoxy-1-oxobutan-2-yl)carbamoyl]propanoic acid (isomer III),COC(=O)C(NC(=O)C(N)CC(O)=O)C(C)O,Tastelessness,True,Tastelessness,False,,GASTGAD
+3-Amino-3-[(3-hydroxy-1-methoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid (isomer II),COC(=O)C(CO)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GASGAD
+3-Amino-3-[(3-methanesulfonyl-1-methoxy-1-oxopropan-2-yl)carbamoyl]propanoic acid,COC(=O)C(CS(C)(=O)=O)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GACGAD
+3-Amino-3-[(nonan-2-yl)carbamoyl]propanoic acid,CCCCCCCC(C)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAD
+3-Amino-3-{[1-carbamoyl-2-(4-hydroxyphenyl)ethyl]carbamoyl}propanoic acid,NC(CC(O)=O)C(=O)NC(Cc1ccc(cc1)O)C(N)=O,Tastelessness,True,Tastelessness,False,,GADGAFY
+3-Amino-3-{[1-oxo-1-(propan-2-yloxy)hexan-2-yl]carbamoyl}propanoic acid,CCCCC(NC(=O)C(N)CC(O)=O)C(=O)OC(C)C,Tastelessness,True,Tastelessness,False,,GAGAD
+"3-Amino-3-{[3-(3,4-dimethoxyphenyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid",COC(=O)C(Cc1ccc(c(c1)OC)OC)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAFYGAD
+3-Amino-3-{[3-(3-hydroxy-4-methoxyphenyl)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(Cc1ccc(c(c1)O)OC)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAFYGAD
+3-Amino-4-(3-methylbutan-2-ylamino)-4-oxobutanoic acid,CC(C)C(C)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAD
+3-Amino-4-(4-methylpentylamino)-4-oxobutanoic acid,CC(C)CCCNC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAD
+3-Amino-4-[(1-amino-1-oxo-3-phenylpropan-2-yl)amino]-4-oxobutanoic acid,NC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(N)=O,Tastelessness,True,Tastelessness,False,,GADGAF
+3-Amino-4-[(1-methoxy-4-methylsulfanyl-1-oxobutan-2-yl)amino]-4-oxobutanoic acid (isomer II),COC(=O)C(CCSC)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAMGAD
+3-Amino-4-[[3-(2-hydroxyphenyl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid,COC(=O)C(Cc1ccccc1O)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAFGAD
+3-Amino-4-[[3-(3-hydroxyphenyl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid,COC(=O)C(Cc1cccc(c1)O)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAFGAD
+3-Amino-4-[[3-(4-hydroxyphenyl)-1-methoxy-1-oxopropan-2-yl]amino]-4-oxobutanoic acid (isomer II),COC(=O)C(Cc1ccc(cc1)O)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAFYGAD
+3-Amino-4-oxo-4-(1-phenylpropan-2-ylamino)butanoic acid (isomer II),CC(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAD
+3-Amino-4-oxo-4-(2-phenylethylamino)butanoic acid,NC(CC(O)=O)C(=O)NCCc1ccccc1,Tastelessness,True,Tastelessness,False,,GAD
+3-Amino-4-oxo-4-(pentan-2-ylamino)butanoic acid,CCCC(C)NC(=O)C(N)CC(O)=O,Tastelessness,True,Tastelessness,False,,GAD
+Alanine amide,CC(N)C(=O)NC1C(C)(C)SC1(C)C,Tastelessness,True,Tastelessness,False,,GA
+Aspartyl-phenylalanyl-O-cyclohexane,NC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(=O)OC1CCCCC1,Tastelessness,True,Tastelessness,False,,GADGAF
+L-Aspartyl-L-Phenylalanine,NC(CC(O)=O)C(=O)NC(Cc1ccccc1)C(O)=O,Tastelessness,True,Tastelessness,False,,GADGAF
+L-Asp-L-Abu-Ome,CCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Tastelessness,True,Tastelessness,False,,GAGAD
+β-Aspartic isomer,CC(NC(=O)CC(N)C(O)=O)C(=O)NC1C(C)(C)SC1(C)C,Tastelessness,True,Tastelessness,False,,GAGAN
+3-{[1-(acetyloxy)-3-methylpentan-2-yl]carbamoyl}-3-aminopropanoic acid,CCC(C)C(COC(C)=O)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-{[1-(acetyloxy)-3-phenylpropan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(=O)OCC(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-{[1-(acetyloxy)-4-methylpentan-2-yl]carbamoyl}-3-aminopropanoic acid,CC(C)CC(COC(C)=O)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-({3-[(2-methylcyclohexyl)oxy]-3-oxopropyl}carbamoyl)propanoic acid,CC1CCCCC1OC(=O)CCNC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+"3-Amino-3-[(1-methoxy-3-{[5-methyl-2-(propan-2-yl)cyclohexyl]oxy}-1,3-dioxopropan-2-yl)carbamoyl]propanoic acid",COC(=O)C(NC(=O)C(N)CC(O)=O)C(=O)OC1CC(C)CCC1C(C)C,Non-sweetness,True,Non-sweetness,False,,GGAASSGAD
+3-Amino-3-[(2-benzyl-3-methoxy-3-oxopropyl)carbamoyl]propanoic acid,COC(=O)C(CNC(=O)C(N)CC(O)=O)Cc1ccccc1,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-[(3-butoxy-3-oxopropyl)carbamoyl]propanoic acid,CCCCOC(=O)CCNC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-[(4-ethoxy-4-oxo-1-phenylbutan-2-yl)carbamoyl]propanoic acid,CCOC(=O)CC(Cc1ccccc1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+"3-Amino-3-{[1-(3,3-dimethylcyclohexanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid",CC(COC(=O)C1CCCC(C)(C)C1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(benzoyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)c1ccccc1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(cyclohexanecarbonyloxy)butan-2-yl]carbamoyl}propanoic acid,CCC(COC(=O)C1CCCCC1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(cyclohexanecarbonyloxy)propan-2-yl]carbamoyl}propanoic acid,CC(COC(=O)C1CCCCC1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(cyclohexyloxy)-1-oxopentan-3-yl]carbamoyl}propanoic acid,CCC(CC(=O)OC1CCCCC1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(pentanoyloxy)butan-2-yl]carbamoyl}propanoic acid,CCCCC(=O)OCC(CC)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-(propanoyloxy)pentan-2-yl]carbamoyl}propanoic acid,CCCC(COC(=O)CC)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[1-oxo-1-(propan-2-yloxy)pentan-3-yl]carbamoyl}propanoic acid,CCC(CC(=O)OC(C)C)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[3-(benzoyloxy)-1-methoxy-1-oxopropan-2-yl]carbamoyl}propanoic acid,COC(=O)C(COC(=O)c1ccccc1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GASGAD
+3-Amino-3-{[3-(cyclohexyloxy)-2-(methoxycarbonyl)-3-oxopropyl]carbamoyl}propanoic acid,COC(=O)C(CNC(=O)C(N)CC(O)=O)C(=O)OC1CCCCC1,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[3-(cyclopentyloxy)-2-(methoxycarbonyl)-3-oxopropyl]carbamoyl}propanoic acid,COC(=O)C(CNC(=O)C(N)CC(O)=O)C(=O)OC1CCCC1,Non-sweetness,True,Non-sweetness,False,,GAD
+3-Amino-3-{[3-methoxy-2-(methoxycarbonyl)-3-oxopropyl]carbamoyl}propanoic acid,COC(=O)C(CNC(=O)C(N)CC(O)=O)C(=O)OC,Non-sweetness,True,Non-sweetness,False,,GAD
+"3-Amino-3-{[4-(cyclohexyloxy)-1-methoxy-1,4-dioxobutan-2-yl]carbamoyl}propanoic acid",COC(=O)C(CC(=O)OC1CCCCC1)NC(=O)C(N)CC(O)=O,Non-sweetness,True,Non-sweetness,False,,GADGAD
+L-Ala-L-Asp-L-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(CC(O)=O)NC(=O)C(C)N,Non-sweetness,True,Non-sweetness,False,,GAFGADGA
+L-Ama-L-Phe-OMe,COC(=O)C(Cc1ccccc1)NC(=O)C(N)C(O)=O,Non-sweetness,True,Non-sweetness,False,,GAFGGAAS
+L-Asp-L-Nva-Ome (isomer II),CCCC(NC(=O)C(N)CC(O)=O)C(=O)OC,Non-sweetness,True,Non-sweetness,False,,GAGAD
+3-Amino-4-(heptan-2-ylamino)-4-oxobutanoic acid (isomer II),CCCCCC(C)NC(=O)C(N)CC(O)=O,Miscellaneous,True,Miscellaneous,False,,GAD
+DQR,NC(CC(O)=O)C(=O)NC(CCC(N)=O)C(=O)NC(CCCN=C(N)N)C(O)=O,Miscellaneous,True,Miscellaneous,False,,GADGAQGA
+EDG,NC(CCC(O)=O)C(=O)NC(CC(O)=O)C(=O)NCC(O)=O,Miscellaneous,True,Miscellaneous,False,,GAEGADG
+EGF,NC(CCC(O)=O)C(=O)NCC(=O)NC(Cc1ccccc1)C(O)=O,Miscellaneous,True,Miscellaneous,False,,GAEGGAF
+GFP,NCC(=O)NC(Cc1ccccc1)C(=O)N1CCCC1C(O)=O,Miscellaneous,True,Miscellaneous,False,,GGAFGAP
+Glu-Ser-Leu-Ala,CC(C)CC(NC(=O)C(CO)NC(=O)C(N)CCC(O)=O)C(=O)NC(C)C(O)=O,Miscellaneous,True,Miscellaneous,False,,GALGASGAEGA
+NNP,NC(CC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1CCCC1C(O)=O,Miscellaneous,True,Miscellaneous,False,,GANGANGAP
+R-Aspartyl-(R)-(-)-phenylglycine methyl ester,COC(=O)C(NC(=O)C(N)CC(O)=O)c1ccccc1,Miscellaneous,True,Miscellaneous,False,,GGAD
